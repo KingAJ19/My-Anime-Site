@@ -1,7 +1,4 @@
-@media (min-height: 320px) {
-    .ui.footer.form-page { /* Increased specificity for SO snippet priority */
-      position: absolute;
-      bottom: 0;
-      width: 100%;
-    }
-  }
+.number{
+  font-size: 29px;
+  font-weight: 800;
+}
